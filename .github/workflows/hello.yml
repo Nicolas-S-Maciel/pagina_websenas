@@ -70,4 +70,4 @@ jobs:
         with:
           file: dockerfile
           push: true
-          tags: nikottrw/
+          tags: nikottrw/senaimage
